@@ -21,7 +21,7 @@
   </header>
 
   <main>
-    <!-- Seu conteúdo principal da loja aqui -->
+    <!-- Seu conteúdo principal da loja aqui --> 
     <div class="product">
       <h2>Produto 1</h2>
       <div class="product-photos">
@@ -43,7 +43,6 @@
           <img src="foto2_3.jpg" alt="Foto 3">
         </div>
       </div>
-      <p>Descrição do produto 2</p>
       <button class="add-to-cart-button" data-product="2">Adicionar ao carrinho</button>
     </div>
     <div class="product">
